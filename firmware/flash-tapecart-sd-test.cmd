@@ -1,0 +1,1 @@
+avrdude -c usbasp -p m328p -u -U flash:w:tapecart-sd-test.ino.with_bootloader.standard.hex
