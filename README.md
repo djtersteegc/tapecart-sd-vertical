@@ -94,7 +94,7 @@ Plug into your Commodore and enjoy!  The browser program should load with either
 
 # Getting a Board
 
-If you are in the US, PCB's are available from my Tindie store, https://www.tindie.com/stores/tersteeg/
+If you are in the US, PCB's are available from my Tindie store, [https://www.tindie.com/products/tersteeg/commodore-tapecart-sd-pcb](https://www.tindie.com/products/tersteeg/commodore-tapecart-sd-pcb)
 
 Otherwise you can grab the [gerbers](gerbers) and order from your favorite PCB fab.
 
